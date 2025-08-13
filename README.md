@@ -33,3 +33,5 @@ Mục tiêu:
    	- Truy cập Web/Mail/FTP server từ mạng nội bộ
    	- Chặn truy cập từ ngoài vào phòng kế toán (theo ACL)
    	- Kết nối giữa chi nhánh và trụ sở chính
+
+![Mô hình mạng](https://github.com/honganhngyn/Basic-cisco-system/blob/main/mohinh.png)
